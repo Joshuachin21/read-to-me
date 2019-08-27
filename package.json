@@ -1,0 +1,32 @@
+{
+  "name": "tell-me",
+  "version": "1.0.0",
+  "description": "Program to run an interactive table with buttons that control a relay for a bubble tube, and commands that play music on a google home.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshuachin21/tell-me.git"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "i2c": "^0.2.3",
+    "i2c-bus": "^4.0.10",
+    "libnfc-js": "^0.1.0",
+    "nfc": "^0.3.3",
+    "node-aplay": "^1.0.3",
+    "onoff": "^1.1.8",
+    "pn532": "^1.0.0",
+    "serialport": "^7.1.5",
+    "socket.io": "^2.0.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshuachin21/tell-me/issues"
+  },
+  "homepage": "https://github.com/Joshuachin21/tell-me#readme"
+}
