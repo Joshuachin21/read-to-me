@@ -21,7 +21,7 @@
     "onoff": "^1.1.8",
     "pn532": "^1.0.0",
     "serialport": "^7.1.5",
-    "socket.io": "^2.0.4"
+    "socket.io": "^2.5.0"
   },
   "author": "",
   "license": "ISC",
